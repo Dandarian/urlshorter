@@ -11,7 +11,7 @@ GET /api/links
 GET /api/links/{id}
 GET /api/links/?long_url=__
 GET /api/links/?short_url=__
-POST /api/links
+POST /api/links/
 PUT /api/links/{id}/
 PATCH /api/links/{id}/
 DELETE /api/links/{id}/
